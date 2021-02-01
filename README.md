@@ -1,4 +1,4 @@
-### Hi, I'm Yudi Setiawan 👋 
+### Hi, I'm Yudi Setiawan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 #### Welcome to my world 👨🏻‍💻
 
 <a href="https://medium.com/@kolonel.yudisetiawan">
