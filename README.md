@@ -19,7 +19,7 @@ I'm mobile developer from Medan, Indonesia
 | *#AndroidDev* | Java 🧡 &nbsp; | Kotlin 💜  &nbsp; | Flutter 💙 &nbsp; | Writer ✍🏻 &nbsp; | Console Gamer 🎮 &nbsp; |
 
 - 🏢 &nbsp; I'm currently working at [Nusanet](https://www.nusa.net.id)
-- 📖 &nbsp; I'm currently learning [Flutter](https://github.com/flutter/flutter)
+- 📖 &nbsp; I'm currently learning [Golang](https://github.com/golang/go)
 - ✍🏻 &nbsp; I'm enjoy sharing my experiences throught writing on Medium.
 
 **Languages**
