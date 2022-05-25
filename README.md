@@ -31,3 +31,16 @@ I'm mobile developer 📱 from Medan, Indonesia. I love exploring new tech stack
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height="42px"/> </a>
 <a href="https://www.jenkins.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/jenkins/jenkins.svg" alt="jenkins" height="42px"/> </a>
 <a href="https://go.dev/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/go/go.svg" alt="golang" height="42px"/> </a>
+
+<br />
+<br />
+<br />
+
+*This metric is just for fun. Does not indicate my skill level.*
+<br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderjava&theme=onedark&hide=javascript,html,css,objective-c" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coderjava&show_icons=true&theme=onedark&line_height=27" alt="CoderJava github stats" />
+</a>
