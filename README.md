@@ -14,9 +14,8 @@
 <br />
 <br />
 
-I'm mobile developer from Medan, Indonesia
+I'm mobile developer 📱 from Medan, Indonesia. I love exploring new tech stack 💻 . When I'm free, sometimes I write about my experience on Medium. And on weekends I enjoy playing PlayStation 4 🎮.
 <br />
-| *#AndroidDev* | Java 🧡 &nbsp; | Kotlin 💜  &nbsp; | Flutter 💙 &nbsp; | Writer ✍🏻 &nbsp; | Console Gamer 🎮 &nbsp; |
 
 - 🏢 &nbsp; I'm currently working at [Nusanet](https://www.nusa.net.id)
 - 📖 &nbsp; I'm currently learning [Golang](https://github.com/golang/go)
