@@ -22,22 +22,13 @@ I'm mobile developer from Medan, Indonesia
 - 📖 &nbsp; I'm currently learning [Golang](https://github.com/golang/go)
 - ✍🏻 &nbsp; I'm enjoy sharing my experiences throught writing on Medium.
 
-**Languages**
-
-<code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-</code> &nbsp;
-<code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
-</code> &nbsp; 
-<code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
-</code> &nbsp; 
-<code><img height="21" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
-</code> &nbsp; 
-
-*This metric is just for fun. Does not indicate my skill level.*
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderjava&theme=onedark&hide=javascript,html,css,objective-c" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coderjava&show_icons=true&theme=onedark&line_height=27" alt="CoderJava github stats" />
-</a>
+### 🔨 Languages and Tools:
+<a href="https://www.android.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/android/android.svg" alt="android" height="42px"/> </a>
+<a href="https://java.com/en/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/java/java.svg" alt="java" height="42px"/> </a>
+<a href="https://kotlinlang.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/kotlin/kotlin.svg" alt="kotlin" height="42px"/> </a>
+<a href="https://dart.dev/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/dart/dart.svg" alt="dart" height="42px"/> </a>
+<a href="https://flutter.dev/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/flutter/flutter.svg" alt="dart" height="42px"/> </a>
+<a href="https://github.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height="42px"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height="42px"/> </a>
+<a href="https://www.jenkins.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/jenkins/jenkins.svg" alt="jenkins" height="42px"/> </a>
+<a href="https://go.dev/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/go/go.svg" alt="golang" height="42px"/> </a>
