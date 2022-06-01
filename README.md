@@ -1,46 +1,16 @@
-### Hi, I'm Yudi Setiawan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
-#### Welcome to my world 👨🏻‍💻
+### 💫 About Me :
+Hi, I'm Yudi Setiawan.<br />
+📱   I'm mobile developer from Medan, Indonesia.<br />
+🏢   I'm currently working at [Nusanet](https://www.nusa.net.id).<br />
+📖   I'm currently learning [Golang](https://github.com/golang/go).<br />
+✍🏻   I'm happy to share my experiences on Medium.
 
-<a href="https://medium.com/@kolonel.yudisetiawan">
-  <img align="left" alt="Yudi Setiawan | Medium" width="21px" src="https://raw.githubusercontent.com/CoderJava/CoderJava/51908e268ea64fa36a733992b212ad7bb39afb6f/assets/iconmonstr-medium-4.svg" />
-</a>
-<a href="https://t.me/CoderJavaX">
-  <img align="left" alt="Yudi Setiawan | Telegram" width="21px" src="https://raw.githubusercontent.com/CoderJava/CoderJava/288a09c88745944e9283060fb560630b37ac195b/assets/iconmonstr-telegram-4.svg" />
-</a>
-<a href="https://twitter.com/CoderJavaX">
-  <img align="left" alt="Yudi Setiawan | Twitter" width="21px" src="https://raw.githubusercontent.com/CoderJava/CoderJava/master/assets/iconmonstr-twitter-4.svg" />
-</a>
+### 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yudi-setiawan-179401131) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@coderjava) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/CoderJavaX) 
 
-<br />
-<br />
-
-I'm mobile developer 📱 from Medan, Indonesia. I love exploring new tech stack 💻 . When I'm free, sometimes I write about my experience on Medium. And on weekends I enjoy playing PlayStation 4 🎮.
-<br />
-
-- 🏢 &nbsp; I'm currently working at [Nusanet](https://www.nusa.net.id)
-- 📖 &nbsp; I'm currently learning [Golang](https://github.com/golang/go)
-- ✍🏻 &nbsp; I'm enjoy sharing my experiences throught writing on Medium.
-
-### 🔨 Languages and Tools:
-<a href="https://www.android.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/android/android.svg" alt="android" height="42px"/> </a>
-<a href="https://java.com/en/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/java/java.svg" alt="java" height="42px"/> </a>
-<a href="https://kotlinlang.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/kotlin/kotlin.svg" alt="kotlin" height="42px"/> </a>
-<a href="https://dart.dev/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/dart/dart.svg" alt="dart" height="42px"/> </a>
-<a href="https://flutter.dev/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/flutter/flutter.svg" alt="dart" height="42px"/> </a>
-<a href="https://github.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height="42px"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height="42px"/> </a>
-<a href="https://www.jenkins.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/jenkins/jenkins.svg" alt="jenkins" height="42px"/> </a>
-<a href="https://go.dev/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/go/go.svg" alt="golang" height="42px"/> </a>
-
-<br />
-<br />
-<br />
-
-*This metric is just for fun. Does not indicate my skill level.*
-<br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderjava&theme=onedark&hide=javascript,html,css,objective-c" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coderjava&show_icons=true&theme=onedark&line_height=27" alt="CoderJava github stats" />
-</a>
+### 💻 Tech Stack
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+### 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=CoderJava&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CoderJava&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderJava&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
