@@ -5,7 +5,7 @@
 
 I am a mobile developer, living in Medan, Indonesia. I mostly work with Dart (Flutter), but have also experience with Java, Kotlin, and others.
 
-<h3>Tech Stack 💻</h3>
+<h3>Tech Stack</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=java&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
@@ -33,7 +33,7 @@ I am a mobile developer, living in Medan, Indonesia. I mostly work with Dart (Fl
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat-square&logo=Google-chrome&logoColor=white" />
 </p>
 
-<h3>Github Stats 📊</h3>
+<h3>Github Stats</h3>
 <a href="https://github-readme-stats.vercel.app/api?username=CoderJava&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" target="_blank"><img alt="Github Stats 1" src="https://github-readme-stats.vercel.app/api?username=CoderJava&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" /></a>
 <br />
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=CoderJava&theme=vue-dark&hide_border=true" target="_blank"><img alt="Github Stats 2" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderJava&theme=vue-dark&hide_border=true" /></a>
