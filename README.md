@@ -33,6 +33,9 @@ I am a mobile developer, living in Medan, Indonesia. I mostly work with Dart (Fl
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat-square&logo=Google-chrome&logoColor=white" />
 </p>
 
+<h3>Support Me</h3>
+<a href="https://www.buymeacoffee.com/coderjava" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 <h3>Github Stats</h3>
 <a href="https://github-readme-stats.vercel.app/api?username=CoderJava&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" target="_blank"><img alt="Github Stats 1" src="https://github-readme-stats.vercel.app/api?username=CoderJava&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" /></a>
 <br />
